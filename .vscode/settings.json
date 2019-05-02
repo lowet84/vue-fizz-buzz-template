@@ -1,0 +1,10 @@
+{
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.cache": true,
+    "**/.vscode": true
+  }
+}
